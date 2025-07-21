@@ -1,16 +1,10 @@
-<h1 align="left">Opa!👋 Tudo certo?</h1>
+# Opa!👋 Tudo certo?
 
-###
+Sou dev desde 2012, 😄 com foco em backend e sistemas distribuídos. Gosto de resolver problemas reais com código limpo, ensinar o que aprendo e contribuir com quem tá começando.
 
-<p align="left">Sou dev desde 2012, 😄 com foco em backend e sistemas distribuídos. Gosto de resolver problemas reais com código limpo, ensinar o que aprendo e contribuir com quem tá começando.</p>
+## 💻 Principais tecnologias que utilizo
 
-###
-
-<h2 align="left">💻 Principais tecnologias que utilizo</h2>
-
-###
-
-<div align="left">
+<section align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -26,29 +20,29 @@
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
-</div>
+</section>
 
 ###
 
-<div align="left">
+<section align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
-</div>
+</section>
 
 ###
 
-<div align="left">
+<section align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
+</section>
 
 ###
 
-<div align="left">
+<section align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -58,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
-</div>
+</section>
 
 ###
 
@@ -74,20 +68,14 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
-###
+## 🚀 O que entrego
 
-<h2 align="left">🚀 O que entrego</h2>
+- APIs REST e microsserviços performáticos e bem estruturados
+- Integrações com filas, serviços de terceiros e banco de dados
+- Ambientes isolados, organizados e reproduzíveis com Docker
+- Código limpo, legível e com boas práticas (SOLID, TDD, Clean Architecture)
 
-###
+## 📫 Contato
 
-<p align="left">- APIs REST e microsserviços performáticos e bem estruturados<br>- Integrações com filas, serviços de terceiros e banco de dados<br>- Ambientes isolados, organizados e reproduzíveis com Docker<br>- Código limpo, legível e com boas práticas (SOLID, TDD, Clean Architecture)</p>
-
-###
-
-<h2 align="left">📫 Contato</h2>
-
-###
-
-<p align="left">- LinkedIn: [https://www.linkedin.com/in/pedro-lacombe/](https://www.linkedin.com/in/pedro-lacombe/)<br>- GitHub: [https://github.com/pedrohenriquelacombe](https://github.com/pedrohenriquelacombe)</p>
-
-###
+- GitHub: [https://github.com/pedrohenriquelacombe](https://github.com/pedrohenriquelacombe)
+- LinkedIn: [https://www.linkedin.com/in/pedro-lacombe/](https://www.linkedin.com/in/pedro-lacombe/)
