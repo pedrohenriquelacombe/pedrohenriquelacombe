@@ -83,3 +83,11 @@
 <p align="left">- APIs REST e microsserviços performáticos e bem estruturados<br>- Integrações com filas, serviços de terceiros e banco de dados<br>- Ambientes isolados, organizados e reproduzíveis com Docker<br>- Código limpo, legível e com boas práticas (SOLID, TDD, Clean Architecture)</p>
 
 ###
+
+<h2 align="left">📫 Contato</h2>
+
+###
+
+<p align="left">- LinkedIn: [https://www.linkedin.com/in/pedro-lacombe/](https://www.linkedin.com/in/pedro-lacombe/)<br>- GitHub: [https://github.com/pedrohenriquelacombe](https://github.com/pedrohenriquelacombe)</p>
+
+###
