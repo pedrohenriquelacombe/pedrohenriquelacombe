@@ -78,4 +78,4 @@ Sou dev desde 2012, 😄 com foco em backend e sistemas distribuídos. Gosto de 
 ## 📫 Contato
 
 - GitHub: [https://github.com/pedrohenriquelacombe](https://github.com/pedrohenriquelacombe)
-- LinkedIn: [https://www.linkedin.com/in/pedro-lacombe/](https://www.linkedin.com/in/pedro-lacombe/)
+- LinkedIn: [https://www.linkedin.com/in/pedro-lacombe](https://www.linkedin.com/in/pedro-lacombe/)
